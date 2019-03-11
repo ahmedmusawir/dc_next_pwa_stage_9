@@ -1,0 +1,24 @@
+{
+	"manifest_version": 3,
+	"name": "Deep Cast AI",
+	"short_name": "Deep Cast",
+	"lang": "en-US",
+	"start_url": "/",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "navy",
+	"background_color": "whitesmoke",
+	"icons": [
+		{
+			"src": "/static/icons/icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "/static/icons/icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	],
+	"version": "0.1"
+}
