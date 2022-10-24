@@ -1,6 +1,6 @@
 # DC Next PWA Boilerplate
 
-Simple Next.js boilerplate with Styled Components, ReactStrap, Redux, PWA and SEO
+Deep Cast LLC. Frontend App with Next.js, Styled Components, ReactStrap, Redux, PWA and SEO
 
 ## To Start the Project:
 
